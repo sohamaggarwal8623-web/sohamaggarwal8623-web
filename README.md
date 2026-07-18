@@ -41,7 +41,7 @@ I'm a **BCA student**, **Full Stack Developer**, and passionate **AI enthusiast*
 - 🧩 **Software engineering first** — clean code, version control discipline, and maintainable architecture.
 - ⚛️ **Frontend depth** — React.js, Tailwind CSS, Context API, React Router, Vite.
 - 🛠️ **Full stack breadth** — PHP, Node.js/Express, REST APIs, CRUD, relational data modeling.
-- 🧠 **CS fundamentals** — DSA, OOP, DBMS, Operating Systems, Computer Networks.
+- 🧠 **CS fundamentals** — DSA, DBMS, Operating Systems, Computer Networks.
 - 🤖 **AI enthusiast** — Prompt Engineering, GitHub Copilot, and applied GenAI workflows.
 
 **🟣 Open To:** Software Engineering Roles · Full Stack Development · Frontend Engineering · Open Source Collaboration · Internships
@@ -73,7 +73,6 @@ I'm a **BCA student**, **Full Stack Developer**, and passionate **AI enthusiast*
 <div align="center">
 
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-6d28d9?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-Databases-4f46e5?style=for-the-badge&logo=mysql&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating%20Systems-5b21b6?style=for-the-badge&logo=linux&logoColor=white)
 ![Networks](https://img.shields.io/badge/Computer%20Networks-7c3aed?style=for-the-badge&logo=cisco&logoColor=white)
