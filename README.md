@@ -8,9 +8,9 @@
 
 <br/>
 
-![Computer Science](https://img.shields.io/badge/B.Tech-Computer%20Science-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![BCA](https://img.shields.io/badge/BCA-Computer%20Applications-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/Software-Engineering-7c3aed?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Location](https://img.shields.io/badge/📍-India-4f46e5?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-New%20Delhi,%20India-4f46e5?style=for-the-badge)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dev.gif" />
 
-I'm a **Full Stack Developer** and **Software Engineer** focused on building fast, accessible, product-grade web applications. My core strength is the **modern React ecosystem** — component architecture, routing, state management, and responsive UI — backed by a growing command of **Node.js/Express** and **MySQL** on the server.
+I'm a **BCA student**, **Full Stack Developer**, and aspiring **Software Engineer** focused on building fast, accessible, product-grade web applications. My core strength is the **modern React ecosystem** — component architecture, routing, state management, and responsive UI — backed by a growing command of **Node.js/Express** and **MySQL** on the server.
 
 - 🧩 **Software engineering first** — clean code, version control discipline, and maintainable architecture.
 - ⚛️ **Frontend depth** — React.js, Tailwind CSS, Context API, React Router, Vite.
@@ -164,43 +164,9 @@ Contributing to a production travel/parcel platform, building and refining respo
 
 | Recognition | Details |
 | :--- | :--- |
-| 🎓 **Applied AI Certification** | Completed structured Generative AI coursework (62.5 hrs) |
 | ⚛️ **Shipped Production UI** | Contributed real, live features to the Airlo platform |
 | 🧩 **Multiple Projects Delivered** | Full-stack & frontend apps built end-to-end |
-| ⭐ **⟨ADD_YOUR_ACHIEVEMENT⟩** | ⟨details⟩ |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-**AWS**
-![AWS](https://img.shields.io/badge/AWS-⟨CERT_NAME⟩-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-**Oracle**
-![Oracle](https://img.shields.io/badge/Oracle-⟨CERT_NAME⟩-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-![NPTEL](https://img.shields.io/badge/NPTEL-⟨CERT_NAME⟩-6d28d9?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-**Cisco**
-![Cisco](https://img.shields.io/badge/Cisco-⟨CERT_NAME⟩-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/⟨USERNAME⟩"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/⟨USERNAME⟩"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/⟨USERNAME⟩"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/⟨USERNAME⟩"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+| 🎓 **Applied GenAI Coursework** | Completed structured Generative AI training (62.5 hrs) |
 
 </div>
 
