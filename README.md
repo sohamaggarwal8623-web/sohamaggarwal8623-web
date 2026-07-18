@@ -217,12 +217,12 @@ Contributing to a travel/parcel platform, building and refining responsive React
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamaggarwal8623-web&show_icons=true&theme=react&title_color=7c3aed&icon_color=6d28d9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sohamaggarwal8623-webs-projects.vercel.app/api?username=sohamaggarwal8623-web&show_icons=true&theme=react&title_color=7c3aed&icon_color=6d28d9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamaggarwal8623-web&theme=react&ring=7c3aed&fire=6d28d9&currStreakLabel=7c3aed&hide_border=true&background=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamaggarwal8623-web&layout=compact&theme=react&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats-sohamaggarwal8623-webs-projects.vercel.app/api/top-langs/?username=sohamaggarwal8623-web&layout=compact&theme=react&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" />
 
 </div>
 
