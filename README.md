@@ -228,11 +228,11 @@ Contributing to a travel/parcel platform, building and refining responsive React
 
 ---
 
-## 🏅 GitHub Trophies
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sohamaggarwal8623-web&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,php,mysql,python,c,tailwind,git,github,vscode,vite,postman,figma,docker&perline=9&theme=dark" />
 
 </div>
 
