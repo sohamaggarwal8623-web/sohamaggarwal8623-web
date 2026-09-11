@@ -238,14 +238,6 @@ Contributing to a travel/parcel platform, building and refining responsive React
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamaggarwal8623-web&theme=react-dark&bg_color=0d1117&color=7c3aed&line=6d28d9&point=ffffff&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
